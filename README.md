@@ -11,6 +11,7 @@ AI IDE with boundless memory, multi-file autonomous coding, and multi AI agent �
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](#download)
 [![Open Source](https://img.shields.io/badge/Open%20Source-100%25-brightgreen.svg)](#)
+[![Website](https://img.shields.io/badge/Website-operatorx02.com-blue.svg)](https://operatorx02.com)
 
 | 100% Open Source | ∞ Boundless Memory | Multi AI Agent |
 |:---:|:---:|:---:|
@@ -123,6 +124,7 @@ AI that adapts to your team. Assign roles, calibrate providers, create projects 
 
 - 📥 **Download for Windows** — Coming soon (Beta)
 - 🍴 **Fork on GitHub** — [github.com/csheng21/operatorX02](https://github.com/csheng21/operatorX02)
+- 🌐 **More Info** — [operatorx02.com](https://operatorx02.com)
 
 `MIT License · Windows only (Beta) · No account required · Works offline`
 
@@ -130,7 +132,8 @@ AI that adapts to your team. Assign roles, calibrate providers, create projects 
 
 ## 🔗 Links
 
-- [Documentation](#) *(Coming soon)*
+- [🌐 Website](https://operatorx02.com)
+- [Documentation](https://operatorx02.com) *(Coming soon)*
 - [GitHub](https://github.com/csheng21/operatorX02)
 
 ---
