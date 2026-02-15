@@ -34,12 +34,14 @@ An AI-native IDE where the assistant **truly remembers**. It's the first develop
 *   **📚 Multi-File Autonomous Coding**: AI modifies multiple files at once with a clear visual diff.
 *   **🔌 Built for Embedded Dev**: Native support for Arduino, ESP32, STM32 with one-click compile and serial monitor.
 
+Operator X02 is built for **every developer, regardless of stack**. Whether you're building web applications, mobile apps, backend services, or embedded systems, 
+X02 provides intelligent AI assistance that understands your entire project.
+
 ## 🖼️ Preview
 
 > *"Yesterday we fixed the JWT token expiry bug in auth.ts..."* — AI recalls context from a previous session automatically.
 
-<img width="1658" height="860" alt="image" src="https://github.com/user-attachments/assets/60a21552-aebb-4cf1-877f-f80d52ff69e6" />
-
+<img width="1008" height="818" alt="borderless-memory" src="https://github.com/user-attachments/assets/96f1fe5f-44b9-4b6d-9c6e-d2249fc2f263" />
 
 ## ⚡ Key Features
 
@@ -88,6 +90,9 @@ To keep your memory forever:
 - Choose a folder on your PC to store all project memories
 
 Once enabled, your AI will remember everything **forever** — across sessions, restarts, and even computer reboots.
+
+<img width="2416" height="1284" alt="X02-history-hq" src="https://github.com/user-attachments/assets/09476ffe-68fb-4573-9a32-75e63ca56063" />
+
 
 ### ✅ System Requirements
 
