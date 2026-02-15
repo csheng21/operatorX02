@@ -40,8 +40,9 @@ X02 provides intelligent AI assistance that understands your entire project.
 ## 🖼️ Preview
 
 > *"Yesterday we fixed the JWT token expiry bug in auth.ts..."* — AI recalls context from a previous session automatically.
+<img width="994" height="687" alt="X02-history_3" src="https://github.com/user-attachments/assets/ffeef297-b7e1-4372-a40a-e7d5f043900c" />
 
-<img width="1008" height="818" alt="borderless-memory" src="https://github.com/user-attachments/assets/96f1fe5f-44b9-4b6d-9c6e-d2249fc2f263" />
+
 
 ## ⚡ Key Features
 
@@ -91,7 +92,8 @@ To keep your memory forever:
 
 Once enabled, your AI will remember everything **forever** — across sessions, restarts, and even computer reboots.
 
-<img width="2416" height="1284" alt="X02-history-hq" src="https://github.com/user-attachments/assets/09476ffe-68fb-4573-9a32-75e63ca56063" />
+<img width="1008" height="818" alt="borderless-memory" src="https://github.com/user-attachments/assets/b70f32d3-a6b2-41d2-a3ec-42aa3dbdc728" />
+
 
 
 ### ✅ System Requirements
