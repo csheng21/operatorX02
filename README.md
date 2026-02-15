@@ -38,7 +38,8 @@ An AI-native IDE where the assistant **truly remembers**. It's the first develop
 
 > *"Yesterday we fixed the JWT token expiry bug in auth.ts..."* — AI recalls context from a previous session automatically.
 
-*(Consider adding a GIF or screenshot here showing the multi-agent panel or the memory recall demo)*
+<img width="1658" height="860" alt="image" src="https://github.com/user-attachments/assets/60a21552-aebb-4cf1-877f-f80d52ff69e6" />
+
 
 ## ⚡ Key Features
 
