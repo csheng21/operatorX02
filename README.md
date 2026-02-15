@@ -115,7 +115,7 @@ We're just getting started! While the full source code is coming March 15, you c
 ## ❓ Frequently Asked Questions
 
 **Q: Is this really free?**  
-A: Yes! Operator X02 is and will always be free. It's open-source under the MIT license. The built-in Operator X02 API is also free during beta.
+A: Yes! Operator X02 is and will always be free. It's open-source under the MIT license. 
 
 **Q: Where is my data stored?**  
 A: **Entirely on your local machine**. No cloud, no telemetry, no tracking. Even when using the built-in API, your code and conversations stay local—only anonymized prompts are sent.
