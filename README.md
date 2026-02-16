@@ -25,6 +25,9 @@ Other AI coding tools forget your project after one session. You constantly have
 
 ## ✨ The Solution: Operator X02
 
+<img width="1200" height="628" alt="reddit-multiplatform-1200x628" src="https://github.com/user-attachments/assets/142fbd06-86d0-4e56-aef9-97afb5f04c6e" />
+
+
 An AI-native IDE where the assistant **truly remembers**. It's the first development environment built with:
 
 *   **🧠 Boundless Memory**: Ask "What did we fix last week?" and the AI recalls the exact conversation, code, and commit—all stored **locally**.
