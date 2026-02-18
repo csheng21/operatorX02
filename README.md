@@ -61,6 +61,9 @@ X02 provides intelligent AI assistance that understands your entire project.
 | **MISRA C Ready** | Support for safety-critical development workflows. |
 | **Full Customization** | Open source (MIT). Fork it, modify prompts, change the UI—everything is yours. |
 
+<img width="1674" height="998" alt="main_interface" src="https://github.com/user-attachments/assets/224b0d26-2cec-432b-b318-13b0507ee3de" />
+
+
 ## 📥 Quick Start (Windows Beta)
 
 Getting started takes **less than 2 minutes**:
